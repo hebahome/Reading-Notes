@@ -9,4 +9,5 @@ Name |[Link] ()
 ------------ | -------------
 Read01 |[ٌRead01](https://github.com/hebahome/Reading-Notes/blob/main/Read01.md)
 Read02 | [ٌRead02](https://github.com/hebahome/Reading-Notes/blob/main/Read02.md)
+Growth Mindset  |[ٌGrowth](Grothw.md)
 
