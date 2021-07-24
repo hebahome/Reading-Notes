@@ -21,3 +21,56 @@ Read06 | [CSS] (https://hebahome.github.io/reading-notes/Read06)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Code 201 Reading Notes
+
+### This web site will summarize important content from Books used as a reference for good sotware developers,got it through [Web Design with..](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1119038634/ref=mt_hardcover?_encoding=UTF8&me=)
+
+
+
+
+
+
+
+
+![Web Design ](https://images-na.ssl-images-amazon.com/images/I/41X2i47NXUL._SX258_BO1,204,203,200_.jpg)
+
+
+File | Name Link
+------------ | -------------
+Read01 |  [Read01]()
+Read02 |  [Read02]()
+Read03 |  [Read03]()
+Read04 |  [Read04]()
+Read05 |  [Read05]()
+Read06 |  [Read06]()
+Read07 |  [Read07]()
+Read08 |  [Read08]()
+Read09 |  [Read09]()
+Read10 |  [Read10]()
+Read11 |  [Read11]()
+Read12 |  [Read12]()
+Read13 |  [Read13]()
+Read14 |  [Read14]()
+Read15 |  [Read15]()
+
+
+
+
+
+
+
+
+
