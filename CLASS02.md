@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Accessibility: Bold vs. Strong and Italic vs. Emphasis 
 ![](https://i.ytimg.com/vi/aivHOczcXzQ/maxresdefault.jpg)
 
@@ -81,3 +82,6 @@ JavaScript distinguishes between numbers (0-9),
 strings (text), and Boolean values (true or false). 
 Expressions evaluate into a single value. 
 Expressions rely on operators to calculate a value.
+=======
+
+>>>>>>> 52ff6447741263fafd2c8681a095e44cb3c418ef
